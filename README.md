@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Allan (@bees4ever)
+- 👋 Hi, I’m Ben (@bees4ever)
 - 👀 I’m interested in NLP, currently Speech-To-Text and Translations
 - 🌱 I’m currently learning AWS, Computer Vision
 - 📫 Mail: beesforever@gmx.de, Discord: bees4ever 
